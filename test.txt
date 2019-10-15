@@ -1,2 +1,3 @@
 	this file is replace
 	编辑文本文档的时候不要用windows自带的记事本，尽量使用notepad++ 保证不乱码
+	我在服务器上向您发送信息
