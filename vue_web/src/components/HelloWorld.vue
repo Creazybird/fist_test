@@ -1,6 +1,6 @@
 <template>
  <div>
-   <el-button @click="firstclick()">点我啊</el-button>
+   <el-button @click="firstclick()">这个是我的网站，没有后台，哈哈哈哈哈哈哈哈哈哈哈哈</el-button>
  </div>
 </template>
 
