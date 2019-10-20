@@ -8,8 +8,8 @@ module.exports = {
   dev: {
 
     // Paths
-    assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    // assetsSubDirectory: 'static',
+    // assetsPublicPath: '/',
     proxyTable: {
         '/api':{
             target:'http://121.196.202.46:6000',
